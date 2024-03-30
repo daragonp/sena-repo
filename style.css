@@ -1,0 +1,21 @@
+*{
+    background-color: azure;
+}
+
+p{font-size: 16px;}
+
+table, th, tr, td{
+    border: 1px solid;
+}
+
+.arriba{
+    color: rgb(108, 26, 26);
+}
+
+.abajo{
+    color: rgb(97, 17, 208);
+}
+
+#enc1, #enc6{
+    font-weight: 400;
+}
