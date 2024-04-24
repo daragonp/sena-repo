@@ -1,21 +1,27 @@
-
-.flex-content, .flex-table {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-    justify-content: space-around;
-    align-content: flex-start;
+.estilologin{
+    width: 500px;
+    margin: 40px auto;
+    border: 1px solid;
+    border-radius: 5%;
+    box-shadow: 15px;
 }
 
-.flex-table {
-background-color: rgb(42, 3, 61);
-color: white;
-
+.estilologin form{
+    padding: 40px;
+    margin-bottom: 20px;
 }
 
-.boxsize {
-    width: 100px;
-    border: 2px solid;
-    text-align: center;
-    padding: 10px;
+.btn{
+    font-weight: bolder;
+    font-size: 16px;
+    height: 40px;
+    width: 400px;
+}
+
+.morado{
+    color: rgb(120, 8, 225);
+}
+
+.espacio{
+    margin-top: 15px;
 }
